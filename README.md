@@ -52,4 +52,22 @@ HPBW ≈ 80°
 
 ## Software Used
 Ansys HFSS 2025 R2 (Student Version)
+---
+
+## Simulation Figures
+
+### S11 Result
+![S11](S11.png.png)
+
+### 3D Radiation Pattern
+![3D Gain](Gain3D.png.png)
+
+### 2D Radiation Pattern (Phi = 0°)
+![Phi0](Polar_phi0.png.png)
+
+### 2D Radiation Pattern (Phi = 90°)
+![Phi90](Polar_phi90.png.png)
+
+### 3D Antenna Model
+![Model](3D_model.png.png)
 
